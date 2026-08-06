@@ -23,7 +23,7 @@ A production-ready Machine Learning Prediction API built with FastAPI. The servi
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Rameshcodes27/ml-prediction-service.git
 cd ml-prediction-service
 ```
 
