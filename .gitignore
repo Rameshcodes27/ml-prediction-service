@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env*
+mlruns/
+.saved_models/
+.saved_models
+saved_models/
+pytest_cache/
