@@ -8,3 +8,5 @@ mlflow
 shap
 pytest
 requests
+httpx
+pydantic-settings
